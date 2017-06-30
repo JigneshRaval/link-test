@@ -5,5 +5,5 @@
 /.gitignore
 /.npmignore
 
-/tsconfig.json
-/tsconfig-build.json
+#/tsconfig.json
+#/tsconfig-build.json
